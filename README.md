@@ -43,9 +43,9 @@ The evaluation metrics include:
 
 ---
 
-### 🎛️ OCR Performance with Preprocessing
+### 🎛️ Ablation Study on OCR Performance Across Different Pre-processing Techniques
 
-Preprocessing methods such as **padding** and **grayscale conversion** were applied to improve recognition.
+In this stage, we applied various pre-processing techniques to evaluate their impact on OCR performance using YOLOv5-s detection results.
 
 | Preprocessing Method | Plate Accuracy (%) | Character Accuracy (%) | Edit Distance |
 | -------------------- | ------------------ | ---------------------- | ------------- |
